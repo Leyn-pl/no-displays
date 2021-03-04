@@ -1,0 +1,7 @@
+name: "nodis"
+displayName: "No Logic Displays"
+author: "LEYN"
+description: "Делает разрешение дисплеев 1x1"
+version: "1.0"
+minGameVersion: 125
+hidden: true
