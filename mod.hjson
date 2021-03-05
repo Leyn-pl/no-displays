@@ -1,7 +1,7 @@
-name: "nodis"
+name: "nodisplays"
 displayName: "No Logic Displays"
 author: "LEYN"
-description: "Делает разрешение дисплеев 1x1"
-version: "1.0"
+description: "Replaces images on displays with a nice gradient"
+version: "1.1"
 minGameVersion: 125
 hidden: true
