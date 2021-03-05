@@ -1,2 +1,2 @@
-Blocks.logicDisplay.displaySize = 1;
-Blocks.largeLogicDisplay.displaySize = 1
+Blocks.logicDisplay.displaySize = 0;
+Blocks.largeLogicDisplay.displaySize = 0
